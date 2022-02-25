@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liberty of conscience pleaded by several weighty reasons on the behalf of the people of God called Quakers and also on behalf of others whose consciences are tender towards God : with a tender message of love unto the King / written by William Smith.</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60640</idno>
+            <idno type="STC">Wing S4312</idno>
+            <idno type="STC">ESTC R28167</idno>
+            <idno type="EEBO-CITATION">10440508</idno>
+            <idno type="OCLC">ocm 10440508</idno>
+            <idno type="VID">45033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1390:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Liberty of conscience pleaded by several weighty reasons on the behalf of the people of God called Quakers and also on behalf of others whose consciences are tender towards God : with a tender message of love unto the King / written by William Smith.</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated: W.S., Nottingham County Gaol, the 2d day of the 2d mo. 1663.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45033:1"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:45033:1"/>
+            <!-- PDF PAGE 116 -->
+            <p>Liberty of Conſcience Pleaded by ſeveral weighty REASONS ON THE Behalf of the People of GOD CALLED QUAKERS; AND ALSO, On the behalf of others whoſe con<g ref="char:EOLhyphen"/>ſciences are tender towards God.</p>
+            <p>With a tender Meſſage of Love UNTO THE KING.</p>
+            <p>Written by <hi>William Smith.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:45033:2"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="3" facs="tcp:45033:2"/>
+            <!-- PDF PAGE 117 -->
+            <p>THe holy God, whoſe wiſdom is infinite and unſearchable, did make of one blood all nations, and by his power and wiſdom he breathed into man the breath of Life, and endued him with pure Reaſon, and Underſtanding, in which he bore the Image of God in Righteouſneſs and true Holineſs; and therein he was made to differ from all ſenſuall Creatures; and as the pure Reaſon and Underſtanding did fill his inward man, he had true liberty in the ſame, and his Conſcience was free as unto God; but the fall leading nature out of its courſe, the Earthly wiſdom entred man, and man entred into it, and thereby loſt his pure Reaſon and Underſtanding in which he was created, and became earthly, ſenſuall and develliſh; in which nature mans Conſcience is bound in Chains of dark<g ref="char:EOLhyphen"/>neſs, and in the ſame nature he would binde the Concience of others unto his own perſwaſion; but in the beginning it was not ſo: And by theſe Reaſons following it may appear, that Liberty of Concience in things partaining to God, is of abſo<g ref="char:EOLhyphen"/>lute neceſſity to be granted.</p>
+            <p n="1">1. It being generally confeſſed, that man is degenerated from God, and that there is to be a Reſtauration by Jeſus Chriſt; then in what way ſoever Chriſt doth appear in man to reſtore him unto God, he is not to be limited, or his appear<g ref="char:EOLhyphen"/>ance quenched by any Law or Decree; though he way appeare contrary to mans expectation.</p>
+            <p n="2">2. It being generally confeſſed, that Chriſt is a Saviour; then he is not to be limited, or his appearance quenched, in what way ſoever he doth appear in man to work his ſalvation.</p>
+            <p n="3">3. It being generally confeſſed, that all men have ſinned, and that by Chriſt alone they muſt be redeemed; then he is not to be limited, or his appearance quenched, in what way ſo<g ref="char:EOLhyphen"/>ever he doth appear in man to work Redemption out of ſin.</p>
+            <p n="4">4. It being generally confeſſed, that ſin ſeparates from God, and that by Chriſt alone reconciliation muſt be made; then he is not to be limited, or his appearence quenched, in what way
+<pb n="4" facs="tcp:45033:3"/>
+               <!-- PDF PAGE 118 -->ſoever he doth appear in man to reconcile him unto God.</p>
+            <p n="5">5. It being generally confeſſed, that God is a ſpirit, and muſt be worſhiped in ſpirit; then the ſpirits manifeſtation is not to be limited or quenched, in what way ſoeever it is made manifeſt in man to lead him into the worſhip of God.</p>
+            <p n="6">6. It being generally confeſſed, that the ſpirit of truth leads into all truth; then the Spirit is not to be limited or quenched in what way ſoever it is made manifeſt in man to lead him in<g ref="char:EOLhyphen"/>to all truth.</p>
+            <p n="7">7. It being generally confeſſed, that all people ſhould live a peaceable life; then the Spirit is not to be limited or quench<g ref="char:EOLhyphen"/>ed, in what way ſoever it is made manifeſt in man to kill the luſt and ſtrife, and to lead him in the way of peace.</p>
+            <p n="8">8. It being generally confeſſed, that one man ſhould do un<g ref="char:EOLhyphen"/>to another as he would that another ſhould do unto him, then the Spirit is not to be limited or quenched, in what way ſoever it is made manifeſt in man to beget Love in his heart, and to lead him to do good unto all men.</p>
+            <p n="9">9. It being generally confeſſed, that all men ſhould be ſub<g ref="char:EOLhyphen"/>ject unto Kings, and all in authority; then the Spirit is not to be limited or quenched, in what way ſoever it is made mani<g ref="char:EOLhyphen"/>feſt in man, to crucifie his rebellious nature, and to ſubject every thought into the obedience of Chriſt, and ſo make him ſubject unto Kings, and all in authority.</p>
+            <p n="10">10. It being generally confeſſed, that there is but one way and truth, then the Spirit is not to be limited or quenched, in what way ſoever it is made manifeſt in man to diſcover falſe wayes and errors, and to lead him from them, and ſo bring him into the one way and truth according to its own pleaſure.</p>
+            <p>Now the Quakers principle and practice anſwering theſe generall Reaſons, there is a neceſſity why their Liberty ſhould be granted in things pertaining to God.</p>
+            <p n="1">1. Becauſe they have received Chriſt Jeſus in the appear<g ref="char:EOLhyphen"/>ance of his Light, and are followers of his Light in his own way, and by the Light they are reſtored into the pure Reaſon, Wiſdom and Underſtanding in which their Inward man ſtands innocently before God, and their outward man diſpoſed in
+<pb n="5" facs="tcp:45033:3"/>
+               <!-- PDF PAGE 118 -->Righteouſneſs, as in the beginning.</p>
+            <p n="2">2. Becauſe the Light of Chriſt in which he hath unto them appeared, and is their principle, is made unto them the power of God unto ſalvation.</p>
+            <p n="3">3. Becauſe the Light of Chriſt hath taken away their ſin, and redeemed them from all iniquity, and hath made them a peculiar people unto God.</p>
+            <p n="4">4. Becauſe the Light of Chriſt hath broken down the parti<g ref="char:EOLhyphen"/>tion wall of ſin, and hath reconciled them unto God, and made their peace.</p>
+            <p n="5">5. Becauſe the Light of Chriſt hath given them the true knowledge of the one onely wiſe God, unto whom alone they bow, and him onely worſhip in the Light of the Spirit which they have received.</p>
+            <p n="6">6. Becauſe the Light of Chriſt hath manifeſted the truth in their hearts, and led them in the ſame by its own power.</p>
+            <p n="7">7. Becauſe the Light of Chriſt hath killed the luſt and ſtrife in them, and lead them to live a peaceable life in all Godlineſs and honeſty.</p>
+            <p n="8">8. Becauſe the Light of Chriſt hath purged out deceit and hypocriſie, and begotten love in their hearts, that they cannot render Evil for Evil, but abide in the doctrine of Chriſt, and love their Enemies.</p>
+            <p n="9">9. Becauſe the Light of Chriſt hath crucified the rebellious nature in them, and made them ſubject to his own will, and thereby ſubjects them unto Kings, and all in authority, and they faithfully anſwer the Kings command, wherein they can keep their Conſciences clear in the ſight of God, and what for Conſcience ſake they cannot anſwer, they patiently ſuffer un<g ref="char:EOLhyphen"/>der, and ſo dare do nothing againſt the truth, but for the truth, and walk with a Conſcience void of offence towards God and man.</p>
+            <p n="10">10. Becauſe the Light of Chriſt hath diſcovered unto them the many falſe wayes and errors, and the great danger in them, and hath led them into the one way and truth, in which they have true peace with God, and ſerve him in ſingleneſs of their hearts; and thus hath Chriſt done that for them which no o<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:45033:4"/>
+               <!-- PDF PAGE 119 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:45033:4"/>
+               <!-- PDF PAGE 119 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:45033:5"/>
+               <!-- PDF PAGE 120 -->could do; by which they know that it is he; and they are witneſſes of his power and life, giving him the glory over all, who is worthy for ever.</p>
+            <p>Now as it is evident by theſe Reaſons, that the Quakers have received the holy and true principle of Light that comes from Chriſt Jeſus, and walk in the ſame, ſo they ought to have that Liberty granted them into which Chriſt hath reſtored them, they anſwering in principle and practiſe thoſe things which by others are in words confeſſed, who ſay, but do not perform, which ſhews that they are in the weakneſs of the fleſh, in which none can pleaſe God; but they that obey the Light and follow it, they do thoſe things that are well-pleaſing in his ſight, and in the Light they are accepted; and in this principle and practiſe the Quakers have fulneſs of joy and peace.</p>
+            <p>Now as concerning others, who are not like-minded at pre<g ref="char:EOLhyphen"/>ſent, and yet in their Conſcience are tender towards God, and anſwers a Conſcience unto God, according to the perſwaſion that he hath wrought in them by his Spirit, that they may not be ſuppreſſed, becauſe there is not any thing which is begotten in tenderneſs towards God, that is to be cruſhed, bruiſed or quenched by force or violence of any Law; and whileſt people behave themſelves peaceably, the Liberty of their Con<g ref="char:EOLhyphen"/>ſcience in things pertaining to God, ought not to be denied them; and where it is ſo, they that have power, do not to o<g ref="char:EOLhyphen"/>thers as they would be done by, and ſo manifeſt that they are void of natural affections. And theſe things I write, that not any thing of God, though never ſo low and weak in its riſing, may be cruſhed or quenched any way in its tender breathings; ſo will truth, peace and righteouſneſs flouriſh in the Earth in the ſame life, power and wiſdom, which was before trangreſſion and perſecution, and puts an end to it again.</p>
+         </div>
+         <div type="message">
+            <head>A tender Meſſage of Love unto the King.</head>
+            <p>O King, my ſpeech is directed unto thee in all humbleneſs of mind, and from the tenderneſs of my heart I write
+<pb n="7" facs="tcp:45033:5"/>
+               <!-- PDF PAGE 120 -->the matter which is laid upon me from the Moſt High, let it therefore be received and entertained by thee as a matter of greateſt weight and concernment unto thee; for it is that on<g ref="char:EOLhyphen"/>ly by which thou muſt either ſtand or fall.</p>
+            <p>Be it therefore known unto thee, that the one blood of which God made all Nations, and in which is life, is the moſt Royal blood, and the moſt noble and renownable of all things, and by it alone all mankind have life, breath and being, amongſt whom thou art one, O King; therefore thy Life not being in thy own hand, conſider who hath prolonged thy dayes, and ſtretched out thy years, who hath helped thee in time of ſtraits, tryals, diſtreſſes and afflictions, is it not God alone, who alſo can cut thy days ſhort, and finiſh them in a moment? Let this conſideration be with thee in thy private chamber, that thou mayeſt fear before the Moſt High, and apply thy heart unto wiſdom; for by Wiſdom Kings reign, and Thrones are eſtabliſh<g ref="char:EOLhyphen"/>ed; and in Wiſdoms path thou wilt find the footſteps of thoſe poor deſpiſed people called <hi>Quakers,</hi> who have hearkened to Wiſdoms voice, and walk with her in her own way; therefore entreat them well, for they are a people redeemed by the Lord, and he hath choſen them out of Nations, Kindreds, Tongues and People, and they are as dear unto him as the ap<g ref="char:EOLhyphen"/>ple of his eye, for he is their God, and they are his people; and of their innocency and peaceableneſs thou haſt had large ex<g ref="char:EOLhyphen"/>perience, and haſt not found them at any time to be rebelli<g ref="char:EOLhyphen"/>ous, though they have and do ſuffer great afflictions under thy power; yet this is their comfort in all their afflictions, that they do not ſuffer as evil-doers, but as innocent from all juſt offen<g ref="char:EOLhyphen"/>ces, whereby they can approve their hearts unto God, and to the glory of God they can enquire of all men if at any time they have wronged, or injured, or evil entreated any man ſince the precious truth hath entered into their hearts, and if here<g ref="char:EOLhyphen"/>in none can juſtly accuſe them, as certainly none can; then the Lord wil not hold them guiltleſs that do in any wiſe oppreſs them; for it is his cauſe they ſtand in, &amp; the ſtrength of men can<g ref="char:EOLhyphen"/>not overturn it. Oh take counſel at the Light of Chriſt with w<hi rend="sup">ch</hi> thou art enlightened, and in the Light thou wilt feel the Life
+<pb n="8" facs="tcp:45033:6"/>
+               <!-- PDF PAGE 121 -->of theſe poor deſpiſed people; and as thou com'ſt to feel their Life in the Light, then will thy love be towards them; but if thou hate the Light in thy own conſcience, thou canſt never know them as they are, and ſo inſtead of being a Nurſing-Fa<g ref="char:EOLhyphen"/>ther to them, thou mayeſt add to their afflictions, as being ig<g ref="char:EOLhyphen"/>norant of them, for none can know them, but in the Light of Chriſt, by which they are changed and renewed in the ſpirit of their minds, and tranſlated into the heavenly life, which the earthly Wiſdom cannot comprehend. Oh! let no counſel en<g ref="char:EOLhyphen"/>ter into thy heart, to cauſe thee to turn againſt this people; but purſue thy promiſes which thou haſt made, and ſo often renew<g ref="char:EOLhyphen"/>ed, touching Liberty of Conſcience; for the performance of thoſe promiſes will be of greater ſtrength and ſecurity unto thee, then all the ſtrength that others can give thee to defend thee, who with reaſons would or may overcome thee to make thy promiſes void, and thereby cauſe thee to add afflictions up<g ref="char:EOLhyphen"/>on the innocent, who at this day bear the burden, though eve<g ref="char:EOLhyphen"/>ry way they ſeek thy good, and concerning whom I do believe that thou haſt a perſwaſion in thy own heart touching their innocency; and if thou take heed unto that which doth at any time perſwade thee that they are an innocent people, it will yet more perſwade thee, and will work thy heart into love towards them, even as theirs is towards thee, to do thee good in any wiſe; and as they are a free-born people within thy do<g ref="char:EOLhyphen"/>minion, and have an outward portion in the ſame, with wives, children and families, who are ready to do good in all places where they are ſetled, let it not enter into thy heart to ſpoile them, or baniſh them from their native beings and birthrights, and from husbands wives, children and relations, who are not all like-minded in the Truth. Therefore, O King, have regard to this weighty matter, upon which thy own happineſs ſo much dependeth; for if thou do wel, it may be well with thee; but if otherwiſe, the Lord God will be clear when he judges.</p>
+            <closer>
+               <signed>
+                  <hi>I</hi> am a ſincere lover of thy immortal ſoul, <hi>W.S.</hi>
+               </signed>
+               <dateline>
+                  <hi>Nottingham</hi> County-Gaol <date>the 2d day of the 2d mo. 1663.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45033:6"/>
+            <!-- PDF PAGE 121 -->
+         </div>
+      </body>
+   </text>
+</TEI>
